@@ -1,0 +1,36 @@
+_repo: To-The-Front--A-Sequel-to-Cadet-Days_19952
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Remington, Frederic
+    alias: Remington, Frederic Sackrider
+    birthdate: 1861
+    deathdate: 1909
+    gutenberg_agent_id: '2565'
+    url: http://www.gutenberg.org/2009/agents/2565
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Remington
+covers:
+- cover_type: archival
+  image_path: 19952-h/images/cover.jpg
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: ''
+gutenberg_issued: '2006-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- West (U.S.) -- Fiction'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcc 'PS'
+title: 'To the Front: A Sequel to Cadet Days'
+url: http://www.gutenberg.org/ebooks/19952
